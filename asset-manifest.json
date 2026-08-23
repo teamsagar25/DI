@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dee-international1/static/css/main.e6c13ad2.css",
+    "main.js": "/dee-international1/static/js/main.edcd030f.js",
+    "static/js/453.9fc12f33.chunk.js": "/dee-international1/static/js/453.9fc12f33.chunk.js",
+    "static/media/Image1.jpg": "/dee-international1/static/media/Image1.d49ef28586097754eb79.jpg",
+    "index.html": "/dee-international1/index.html",
+    "main.e6c13ad2.css.map": "/dee-international1/static/css/main.e6c13ad2.css.map",
+    "main.edcd030f.js.map": "/dee-international1/static/js/main.edcd030f.js.map",
+    "453.9fc12f33.chunk.js.map": "/dee-international1/static/js/453.9fc12f33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.edcd030f.js"
+  ]
+}
