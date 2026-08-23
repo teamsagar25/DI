@@ -22,13 +22,25 @@ export const categories = [
 
 export const products = [
   {
-    name: "1.5 Ton Inverter AC",
+    name: "Split Ac 1 Ton (1203R) Normal",
     category: "AC",
     price: "NPR 72,990",
     image: Image1,
   },
   {
-    name: "2 Ton Inverter AC",
+    name: "Split Ac 1.5 Ton (1803R) Normal",
+    category: "AC",
+    price: "NPR 98,990",
+    image: Image1,
+  },
+  {
+    name: "Split Ac 1 Ton (1245I) Inverter",
+    category: "AC",
+    price: "NPR 98,990",
+    image: Image1,
+  },
+  {
+    name: "Split Ac 1.5 Ton (1845I) Inverter",
     category: "AC",
     price: "NPR 98,990",
     image: Image1,
