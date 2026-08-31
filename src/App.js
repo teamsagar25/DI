@@ -9,7 +9,7 @@ import Offer from "./pages/Offer";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/di-official">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/products" element={<Products />} />
